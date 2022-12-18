@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+aside{
+
+    display:block;
+    float:right;
+    width: 100px;
+    height:100px;
+    background-color: aquamarine;
+    text-align: center;
+}
+nav{
+    width:100vw;
+    height: 50px;
+    background-color: black;
+    color:whiite;
+    display:flex;
+}
+ a{
+    color:white;
+    text-decoration: none;
+    
+   
+}
+nav li{
+    display: inline;
+    padding: 5px;
+    margin:10px 10px;
+    
+}
